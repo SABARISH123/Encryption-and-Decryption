@@ -129,6 +129,7 @@ The extension requires the following parameters:
       UTF-8
 7. Decrypt or Encrypt
      Click Decrypt or Encrypt
+
 **Output**
   1. If the operation is successful, the result will be displayed in the Output Panel.
   2. If any error occurs, the details will appear in the Debug Panel.
